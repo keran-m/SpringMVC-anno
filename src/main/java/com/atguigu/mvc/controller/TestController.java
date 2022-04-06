@@ -11,6 +11,7 @@ public class TestController {
         System.out.println("hello");
         System.out.println("third commit");
         System.out.println("hot-fix four commit");
+        System.out.println("hot-fix chongtu commit");
         return "index";
     }
 
