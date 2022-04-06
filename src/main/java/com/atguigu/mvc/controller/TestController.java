@@ -10,6 +10,7 @@ public class TestController {
     public String index(){
         System.out.println("hello");
         System.out.println("third commit");
+        System.out.println("hot-fix four commit");
         return "index";
     }
 
