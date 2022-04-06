@@ -14,7 +14,7 @@ public class TestController {
         System.out.println("master chongtu commit");
         System.out.println("hot-fix chongtu commit");
         System.out.println("push github commit");
-        System.out.println("pull github commit");
+        System.out.println("pull github commit1");
         return "index";
     }
 
